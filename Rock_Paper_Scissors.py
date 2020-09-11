@@ -1,4 +1,4 @@
-# import os; os.system("cls") 
+import os; os.system("cls") 
 import random
 
 play=0
